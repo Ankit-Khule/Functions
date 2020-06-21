@@ -1,4 +1,4 @@
-# Functions
+# [Functions](https://github.com/Ankit-Khule/Functions/blob/master/Functions.py)
 
 * Functions are block of code which runs only when it is called.
 * You can pass parameters into the function with the help of arguement
